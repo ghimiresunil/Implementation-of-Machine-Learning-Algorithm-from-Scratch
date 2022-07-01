@@ -17,8 +17,8 @@ Are you interested in Data Science and Machine Learning, but you don’t have an
 
 <b> I think this repo is for you! </b>
 
-Even you are familiar with machine learning, this course can help you to review all the techniques and understand the concept behind each term.
-This repo is completely categorized, and I don’t start from the middle! We actually start the concept of every term, and then I try to implement it in Python step by step. The structure of the course is as follows:
+Even you are familiar with machine learning, this repo can help you to review all the techniques and understand the concept behind each term.
+This repo is completely categorized, and I don’t start from the middle! I actually start the concept of every term, and then I try to implement it in Python step by step. The structure of the course is as follows:
 
 ## 3. WHO THIS REPO IS FOR:
 * Anyone with any background that interested in Data Science and Machine Learning with at least high school (+2) knowledge in mathematics
