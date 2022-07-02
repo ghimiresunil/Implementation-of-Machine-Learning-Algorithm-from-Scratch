@@ -28,3 +28,11 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * Anyone who afraid of coding in Python but interested in Machine Learning concepts
 * Anyone who wants to create new knowledge on the different dataset using machine learning
 * Students who want to apply machine learning models in their projects
+
+## 4. Contents
+* <a href = '#reality-vs-expectation'> Reality vs Expectation </a>
+
+# Reality vs Expectation
+| Title | Repository |
+|------ | ---------- |
+| IS AI OVERHYPED? REALITY VS EXPECTATION | -------------------|
