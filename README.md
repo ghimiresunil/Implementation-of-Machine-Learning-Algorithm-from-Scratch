@@ -42,4 +42,4 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 | Title | Repository |
 |------ | :----------: |
 | INTRODUCTION TO ARTIFICIAL INTELLIGENCE & MACHINE LEARNING |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Introduction%20to%20ML%20and%20AI.md)|
-
+| KEY TERMS USED IN MACHINE LEARNING | :----------: |
