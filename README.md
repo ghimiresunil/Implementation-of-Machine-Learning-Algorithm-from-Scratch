@@ -30,9 +30,10 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * Students who want to apply machine learning models in their projects
 
 ## 4. Contents
-* <a href = '#reality-vs-expectation'> Reality vs Expectation </a>
+* [Reality vs Expectation](#reality-vs-expectation)
 
 # Reality vs Expectation
 | Title | Repository |
-|------ | ---------- |
-| IS AI OVERHYPED? REALITY VS EXPECTATION | -------------------|
+|------ | :----------: |
+| IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
+
