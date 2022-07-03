@@ -32,7 +32,8 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 ## 4. Contents
 * [Reality vs Expectation](#reality-vs-expectation)
 * [Machine Learning from Beginner to Advanced](#machine-learning-from-beginner-to-advanced)
-
+* [Machine Learning Interview Questions with Answers](#machine-learning-interview-questions-with-answers)
+* [Essential Machine Learning Formulas](#essential-machine-learning-formulas)
 # Reality vs Expectation
 | Title | Repository |
 |------ | :----------: |
@@ -42,4 +43,16 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 | Title | Repository |
 |------ | :----------: |
 | INTRODUCTION TO ARTIFICIAL INTELLIGENCE & MACHINE LEARNING |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Introduction%20to%20ML%20and%20AI.md)|
-| KEY TERMS USED IN MACHINE LEARNING | :----------: |
+| KEY TERMS USED IN MACHINE LEARNING | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Key%20terms%20used%20in%20ML.md) |
+|PERFORMANCE METRICS IN MACHINE LEARNING CLASSIFICATION MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Classification%20Performance%20Metrics.md) |
+|PERFORMANCE METRICS IN MACHINE LEARNING REGRESSION MODEL| [🔗]() |
+
+# Machine Learning Interview Questions with Answers
+| Title | Repository |
+|------ | :----------: |
+|50 QUESTIONS ON STATISTICS & MACHINE LEARNING – CAN YOU ANSWER? | [🔗](https://graspcoding.com/50-questions-on-statistics-machine-learning-can-you-answer/)|
+
+# Essential Machine Learning Formulas
+| Title | Repository |
+|------ | :----------: |
+|MOSTLY USED MACHINE LEARNING FORMULAS |[🔗](https://github.com/ghimiresunil/Machine-Learning-Formulas)|
