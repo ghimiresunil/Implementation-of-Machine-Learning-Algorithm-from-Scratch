@@ -1,5 +1,7 @@
 # Performance Metrics in Machine Learning Classification Model
 
+![performance-metrics-in-AI](https://user-images.githubusercontent.com/40186859/177039791-23fcf82b-b9fc-4b60-94b9-c91c738205f7.png)
+
 In this file, we are going to talk about 5 of the most widely used Evaluation Metrics of Classification Model. Before going into the details of performance metrics, let’s answer a few points:
 
 ## WHY DO WE NEED EVALUATION METRICS?
@@ -21,7 +23,7 @@ As we can see, it basically tells us among all the points how many of them are c
 * Highly Interpretable
 * If data points are balanced it gives proper effectiveness of the model
 
-Disadvantages
+**Disadvantages**
 * Not recommended for Imbalanced data, as results can be misleading. Let me give you an exatample. Let’s say we have 100 data points among which 95 points are negative and 5 points are positive. If I have a dumb model, which only predicts negative results then at the end of training I will have a model that will only predict negative. But still, be 95% accurate based on the above formula. Hence not recommended for imbalanced data.
 * We don’t understand where our model is making mistakes.
 
@@ -30,6 +32,8 @@ Disadvantages
 As the name suggests it is a 2×2 matrix that has Actual and Predicted as Rows and Columns respectively. It determines the number of Correct and Incorrect Predictions, we didn’t bother about incorrect prediction in the Accuracy method, and we only consider the correct ones, so the Confusion Matrix helps us understand both aspects.
 
 Let’s have a look at the diagram to have a better understanding of it:
+
+![confusion_matrix](https://user-images.githubusercontent.com/40186859/177039628-d4e927d3-197d-4900-95c7-de988a960076.png)
 
 ### WHAT DOES THESE NOTATION MEANS?
 
@@ -87,6 +91,10 @@ FPR = $\frac{False Positive}{False Positive + True Negative}$
 ROC curve plots are basically TPR vs. FPR calculated at different classification thresholds. Lowering the classification threshold classifies more items as positive, thus increasing both False Positives and True Positives i.e. basically correct predictions.
 
 All the values are sorted and plotted in a graph, and the area under the ROC curve is the actual performance of the model at different thresholds.
+
+<!-- ![AUC_ROC](https://user-images.githubusercontent.com/40186859/177039662-1c421d14-9aab-4274-84d1-d6c312f608fd.png) -->
+
+<img src = "https://user-images.githubusercontent.com/40186859/177039662-1c421d14-9aab-4274-84d1-d6c312f608fd.png" alt = 'AUC ROC Curve' width = 600px; height = 350px>
 
 **Advantages**:
 * A  simple graphical representation of the diagnostic accuracy of a test: the closer the apex of the curve toward the upper left corner, the greater the discriminatory ability of the test.
