@@ -142,6 +142,28 @@ Weighted Average is the method of calculating a kind of arithmetic mean of a set
 
 * Weighted Average for F1-Score = $\frac{2 \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑅𝑒𝑐𝑎𝑙𝑙} \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑃𝑟𝑒𝑐𝑖𝑠𝑖𝑜𝑛}}{150} = 0.79305 $
 
+## 10. Cohen's Kappa
+
+Cohen's kappa measures the agreement between two raters who each classify N items into C mutually exclusive categories. The definition of 
+
+$ Kappa (\kappa) = \frac{P_o - P_e}{1 - P_e}$
+
+Where,
+
+$P_o$ = relative observed agreement among raters
+
+$P_e$ = hypothetical probability of chance agreement
+
+so,
+
+$P_o = \frac{34 + 52 + 33}{150} = 0.793$
+
+$P_e$ = $[(\frac{52}{150} * \frac{47}{150}) + (\frac{52}{150} * \frac{65}{150}) + (\frac{46}{150} * \frac{38}{150})] = [0.108 + 0.150 + 0.077] = 0.335$
+
+$Kappa (\kappa) = \frac{P_o - P_e}{1 - P_e} = \frac{0.793 - 0.335}{1 - 0.335} = 0.688$
+
+**_Note_** = Cohen suggested the Kappa result be interpreted as follows: values ≤ 0 as indicating no agreement and 0.01–0.20 as none to slight, 0.21–0.40 as fair, 0.41– 0.60 as moderate, 0.61–0.80 as substantial, and 0.81–1.00 as almost perfect agreement
+
 **Finally, let’s look generated Confusion matrix using Python’s Scikit-Learn**
 ![sklearn_confusion_matrix](https://user-images.githubusercontent.com/40186859/177247201-b6109ed7-3cea-4bed-946d-6cd4e183be44.png)
 
