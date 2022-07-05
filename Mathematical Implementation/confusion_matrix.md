@@ -1,3 +1,9 @@
+# CONFUSION MATRIX FOR YOUR MULTI-CLASS ML MODEL
+
+Many multi-class and multi-label categorization difficulties in daily life. In contrast to multi-class classification issues, multi-label classification problems may have an array of classes as the result, but in multi-class classification problems there is only one output out of several targets. An apple, for instance, is red, healthy, and sweet. A stackoverflow topic may also be labeled with Python, Machine Learning, or Data Science. The multi-label classification problem is quickly shown in the following graphic.
+
+![multi-class-multi-label](https://user-images.githubusercontent.com/40186859/177256173-88d9921b-bd07-4986-af5b-e913e47be38c.png)
+
 For the sake of simplicity, let’s assume our multi-class classification problem to be a 3-class classification problem. Say we have got three class labels(Target/Outcome) in a dataset, namely 0, 1, and 2. A potential uncertainty matrix for these groups is provided below.
 
 ![Multi Class Confusion Matrix](https://user-images.githubusercontent.com/40186859/177247062-b7c0826c-db05-4a04-a6bf-8a2e8d56a782.png)
