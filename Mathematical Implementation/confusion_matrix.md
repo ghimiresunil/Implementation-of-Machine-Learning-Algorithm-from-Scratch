@@ -140,7 +140,7 @@ Weighted Average is the method of calculating a kind of arithmetic mean of a set
 
 * Weighted Average for Recall = $\frac{0.653 \times 52 + 1 \times 52 + 0.7173 \times 46}{150} = 0.79301$
 
-* Weighted Average for F1-Score = $\frac{2 \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑅𝑒𝑐𝑎𝑙𝑙} \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑃𝑟𝑒𝑐𝑖𝑠𝑖𝑜𝑛}}{150} = 0.79305 $
+* Weighted Average for F1-Score = $\frac{2 \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑅𝑒𝑐𝑎𝑙𝑙} \times 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑃𝑟𝑒𝑐𝑖𝑠𝑖𝑜𝑛}}{𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑅𝑒𝑐𝑎𝑙𝑙} + 𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑_{𝑃𝑟𝑒𝑐𝑖𝑠𝑖𝑜𝑛}} = 0.79305 $
 
 ## 10. Cohen's Kappa
 
