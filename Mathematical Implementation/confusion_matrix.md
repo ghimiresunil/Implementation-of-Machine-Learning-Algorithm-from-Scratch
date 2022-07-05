@@ -44,6 +44,33 @@ Recall literally is how many of the true positives were recalled (found), i.e. h
 
 ## 5. F1-Score
 
+Before we dive deep into F1 score, the question may arise in your mind about what is F Score?
+
+The F-measure balances the precision and recall.
+
+On some problems, when false positives are more essential to minimize than false negatives, we could be interested in an F-measure that places greater emphasis on Precision.
+
+On other problems, when false negatives are more essential to minimize than false positives, we could be interested in an F-measure that places greater emphasis on Recall.
+
+The solution is the **Fbeta-measure**.
+
+Using an abstraction of the F-measure known as the Fbeta-measure, a beta-coefficient is used to balance recall and precision when calculating the harmonic mean.
+
+So,
+
+$F_{\beta} = \frac{1 + \beta^2 * (Precision * Recall)}{\beta^2 * (Precision + Recall)} $
+
+The choice of the beta parameter will be used in the name of the Fbeta-measure.
+For example, a beta value of 2 is referred to as F2-measure or F2-score. A beta value of 1 is referred to as the F1-measure or the F1-score.
+
+Three common values for the beta parameter are as follows:
+
+* **F0.5-Measure** (beta=0.5): More weight on precision, less weight on recall.
+* **F1-Measure** (beta=1.0): Balance the weight on precision and recall.
+* **F2-Measure** (beta=2.0): Less weight on precision, more weight on recall
+
+The F-measure discussed in the previous section is an example of the Fbeta-measure with a beta value of 1.
+
 F1- Score is the harmonic mean of the precision and recall which means the higher the value of the f1-score better will be the model. Due to the product in the numerator, if one goes low, the final F1 score goes down significantly. So a model does well in F1 score if the positive predicted are actually positives (precision) and doesn't miss out on positives and predicts them negative (recall).
 
 * F1- Score of Class 0 = $\frac{2 \times R_0 \times P_0}{R_0 + P_0} = \frac{2 \times 0.723 \times 0.653}{0.7223 + 0.6563} = 0.6886$
