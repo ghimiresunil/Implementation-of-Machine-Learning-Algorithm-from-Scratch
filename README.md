@@ -31,6 +31,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 
 ## 4. Contents
 * [Reality vs Expectation](#reality-vs-expectation)
+* [Installation](#installation)
 * [Machine Learning from Beginner to Advanced](#machine-learning-from-beginner-to-advanced)
 * [Mathematical Implementation](#mathematical-implementation)
 * [Machine Learning Interview Questions with Answers](#machine-learning-interview-questions-with-answers)
@@ -40,6 +41,11 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 | Title | Repository |
 |------ | :----------: |
 | IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
+
+# Installation
+| Title | Repository |
+|------ | :----------: |
+|INSTALL THE ANACONDA PYTHON ON WINDOWS AND LINUX | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Installation/install_anaconda_python.md)|
 
 # Machine Learning from Beginner to Advanced
 | Title | Repository |
