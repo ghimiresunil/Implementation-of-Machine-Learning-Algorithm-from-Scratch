@@ -9,11 +9,23 @@ Machine learning is the study of computer algorithms that comprises of algorithm
 > **Do you want to know about supervised, unsupervised and reinforcement learning?** [Read More](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Introduction%20to%20ML%20and%20AI.md)
 
 ## CLASSIFICATION
-Classification, a sub-category of supervised learning, is defined as the process of separating data into distinct categories or classes. These models are built by providing a labeled dataset and making the algorithm learn so that it can predict the class when new data is provided. The most popular classification algorithms are Decision Tree, SVM. We will study these algorithms in the coming tutorials.
+Classification, a sub-category of supervised learning, is defined as the process of separating data into distinct categories or classes. These models are built by providing a labeled dataset and making the algorithm learn so that it can predict the class when new data is provided. The most popular classification algorithms are Decision Tree, SVM. 
+
+We have two types of learners in respective classification problems:
+
+* Lazy Learners: As the name suggests, such kind of learners waits for the testing data to be appeared after storing the training data. Classification is done only after getting the testing data. They spend less time on training but more time on predicting. Examples of lazy learners are K-nearest neighbor and case-based reasoning.
+
+* Eager Learners: As opposite to lazy learners, eager learners construct a classification model without waiting for the testing data to be appeared after storing the training data. They spend more time on training but less time on predicting. Examples of eager learners are Decision Trees, Naïve Bayes, and Artificial Neural Networks (ANN).
+
+**_Note_**: We will study these algorithms in the coming tutorials.
 
 ## REGRESSION
 While classification deals with predicting discrete classes, regression is used in predicting continuous numerical valued classes. Regression is also falls under supervised learning generally used to answer “How much?” or “How many?”. Regressions create relationships and correlations between different types of data. Linear Regression is the most common regression algorithm.
 
+Regression models are of two types:
+
+* Simple regression model: This is the most basic regression model in which predictions are formed from a single, univariate feature of the data.
+* Multiple regression model: As the name implies, in this regression model the predictions are formed from multiple features of the data. 
 ## CLUSTERING
 Cluster is defined as groups of data points such that data points in a group will be similar or related to one another and different from the data points of another group. And the process is known as clustering. The goal of clustering is to determine the intrinsic grouping in a set of unlabelled data. Clustering is a form of unsupervised learning since it doesn’t require labeled data.
 
