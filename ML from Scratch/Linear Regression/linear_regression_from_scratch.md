@@ -30,7 +30,7 @@ c = mean(Y) - m * mean(X)
 
 As you can see, the red point is very near the regression line; its error of prediction is small. By contrast, the yellow point is much higher than the regression line and therefore its error of prediction is large. The best-fitting line is the line that minimizes the sum of the squared errors of prediction.
 
-## 1.2. LINEAR REGRESSION FROM SCRATCH
+## 1.1. LINEAR REGRESSION FROM SCRATCH
 
 We will build a linear regression model to predict the salary of a person on the basis of years of experience from scratch. You can download the dataset from the link given below. Let’s start with importing required libraries:
 
@@ -101,7 +101,7 @@ print(y_pred)
 
 Output: 87216.95528812669
 ```
-### 1.3. LINEAR REGRESSION USING SKLEARN
+### 1.2. LINEAR REGRESSION USING SKLEARN
 
 ```
 from sklearn.linear_model import LinearRegression
@@ -126,7 +126,7 @@ y_pred
 Output: 87216.95528812669
 ```
 
-## 1.4. CONCLUSION
+## 1.3. CONCLUSION
 
 We need to able to measure how good our model is (accuracy). There are many methods to achieve this but we would implement Root mean squared error and coefficient of Determination (R² Score).
 
