@@ -56,6 +56,7 @@ plt.ylabel('Salary')
 plt.title('Salary Prediction Curves')
 plt.show()
 ```
+![salary_prediction_curve](https://user-images.githubusercontent.com/40186859/177685995-af8c1fc9-9145-4337-81b4-03159324d71a.png)
 
 ```
 def mean(values):
