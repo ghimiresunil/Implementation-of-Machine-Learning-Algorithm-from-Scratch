@@ -34,6 +34,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * [Installation](#installation)
 * [Reality vs Expectation](#reality-vs-expectation)
 * [Machine Learning from Beginner to Advanced](#machine-learning-from-beginner-to-advanced)
+* [Scratch Implementation](#scratch-implementation)
 * [Mathematical Implementation](#mathematical-implementation)
 * [Machine Learning Interview Questions with Answers](#machine-learning-interview-questions-with-answers)
 * [Essential Machine Learning Formulas](#essential-machine-learning-formulas)
@@ -62,8 +63,12 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 |PERFORMANCE METRICS IN MACHINE LEARNING CLASSIFICATION MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Classification%20Performance%20Metrics.md) |
 |PERFORMANCE METRICS IN MACHINE LEARNING REGRESSION MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Regression%20Performance%20Metrics.md) |
 
-# Mathematical Implementation
+# Scratch Implementation
+| Title | Repository |
+|------ | :----------: |
+|LINEAR REGRESSION FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Linear%20Regression)|
 
+# Mathematical Implementation
 | Title | Repository |
 |------ | :----------: |
 |CONFUSION MATRIX FOR YOUR MULTI-CLASS ML MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Mathematical%20Implementation/confusion_matrix.md)|
