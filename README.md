@@ -30,22 +30,29 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * Students who want to apply machine learning models in their projects
 
 ## 4. Contents
-* [Reality vs Expectation](#reality-vs-expectation)
+* [Useful Commands](#useful-commands) 
 * [Installation](#installation)
+* [Reality vs Expectation](#reality-vs-expectation)
 * [Machine Learning from Beginner to Advanced](#machine-learning-from-beginner-to-advanced)
 * [Mathematical Implementation](#mathematical-implementation)
 * [Machine Learning Interview Questions with Answers](#machine-learning-interview-questions-with-answers)
 * [Essential Machine Learning Formulas](#essential-machine-learning-formulas)
 
-# Reality vs Expectation
+# Useful Commands
 | Title | Repository |
 |------ | :----------: |
-| IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
+| USEFUL GIT COMMANDS FOR EVERYDAY USE | [🔗](https://github.com/ghimiresunil/Git-Cheat-Sheet)|
+| MOST USEFUL LINUX COMMANDS EVERYONE SHOULD KNOW | [🔗](https://github.com/ghimiresunil/Linux-Guide-For-All)|
 
 # Installation
 | Title | Repository |
 |------ | :----------: |
 |INSTALL THE ANACONDA PYTHON ON WINDOWS AND LINUX | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Installation/install_anaconda_python.md)|
+
+# Reality vs Expectation
+| Title | Repository |
+|------ | :----------: |
+| IS AI OVERHYPED? REALITY VS EXPECTATION |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Reality%20vs%20Expectation/Is%20AI%20Overhyped%3F%20Reality%20vs%20Expectation.md)|
 
 # Machine Learning from Beginner to Advanced
 | Title | Repository |
