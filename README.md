@@ -68,6 +68,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 |------ | :----------: |
 |LINEAR REGRESSION FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Linear%20Regression)|
 |LOGISTIC REGRESSION FROM SCRATCH| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Logistic%20Regression)|
+|NAIVE BAYES FROM SCRATCH| --Ongoing--|
 
 # Mathematical Implementation
 | Title | Repository |
