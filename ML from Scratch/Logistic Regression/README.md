@@ -50,7 +50,21 @@ Now, this is about 2D and 3D space, in n-D space we have Hyper-Plane instead of 
 
 ### 1.3. HOW DO WE REPRESENT HYPERPLANE IN EQUATION ?
 
-Imagine we have n-dimension in our Hyper-Plane, then each dimension will have its own slope value, let’s call them 
+Before diving into the topic, a question may arise in your mind: What is a hyperplane? In a concise term, a hyperplane is a decision boundary that helps classify the data points.
+
+Let us consider a line with multiple points on it.
+
+For example: If we want to divide a line into two parts such as some points lie on one side and remaining on the other side, we can choose a point as reference.
+
+So for a line a point is hyperplane.
+
+For next example, lets take a wall (2D) . If we want to partition it into two parts a single line (1D) can do that.
+
+Thus if V is an n-dimensional vector space than hyperplane for V is an (n-1)-dimensional subspace.
+
+<i>**Note: Data points falling on either side of the hyperplane can be attributed to different classes.**</i>
+
+Let's deep dive into the topic, imagine we have n-dimension in our Hyper-Plane, then each dimension will have its own slope value, let’s call them 
 
 $w_1, w_2, w_3, ........, w_n$
 
@@ -86,7 +100,6 @@ So, If you know the basics of ML problems, it can be explained as given a set of
 $d_i = \frac{w^{\ T}x_i}{||w||}$
 
 where w is the normal vector to the out hyperplane, let’s assume that it is Unit Vector for simplicity. Therefore. `||W|| = 1`. Hence, $ \ d_i = w^{\ T}x_i$ and $d_j = w^{\ T}x_j$. Since w and x are on the same side the Hyper-Plane i.e. on the positive side, hence $w^{\ T}x_i$ > 0 and $w^{\ T}x_j$ < 0.
-
 
 Basically, it means $d_i$ belongs to +1 class and $d_j$ belongs to -1 class. And, this is how we can classify our data points using the Hyper-Plane.
 
