@@ -1,4 +1,5 @@
 # LOGISTIC REGRESSION FROM SCRATCH
+![image](https://user-images.githubusercontent.com/40186859/178145171-645eaa3d-8070-4bec-9d64-136f52ac1cd5.png)
 
 Before begin, let's assume you are already familar with some of the following topics:
 
