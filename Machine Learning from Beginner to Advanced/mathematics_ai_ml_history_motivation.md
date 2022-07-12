@@ -111,4 +111,4 @@ Note: We need to build models in order to explain the past, predict the future, 
   * Representation Strategies & Constraints
   * General mathematics exposes constraints
   * AI is constraints exposed by representation that supports models targeted to thinking... but….?
-  * According to Dr. Winston (Professor, Computer Scientist, MIT - AI is all about algorithms enabled by constraints exposed by representations that supports models targeted thinking, perception & action…! 
+  * **According to Dr. Winston (Professor, Computer Scientist, MIT)** - AI is all about algorithms enabled by constraints exposed by representations that supports models targeted thinking, perception & action…! 
