@@ -58,6 +58,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 # Machine Learning from Beginner to Advanced
 | Title | Repository |
 |------ | :----------: |
+|HISTORY OF MATHEMATICS, AI & ML - HISTORY & MOIVATION| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/mathematics_ai_ml_history_motivation.md)|
 | INTRODUCTION TO ARTIFICIAL INTELLIGENCE & MACHINE LEARNING |[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Introduction%20to%20ML%20and%20AI.md)|
 | KEY TERMS USED IN MACHINE LEARNING | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Key%20terms%20used%20in%20ML.md) |
 |PERFORMANCE METRICS IN MACHINE LEARNING CLASSIFICATION MODEL| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Machine%20Learning%20from%20Beginner%20to%20Advanced/Classification%20Performance%20Metrics.md) |
