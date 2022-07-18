@@ -50,4 +50,8 @@ The final 50% will be awarded for your notebook file.
 
 Note: Your work needs to be fully referenced, which is good practice for your dissertation.
 
+If you have any queries, feedback, or suggestions then you can leave a comment or mail on info@sunilghimire.com.np. See you in the next tutorial.
+
+### **Stay safe !! Happy Learning !!!**
+
 _**STEPHEN HAWKING ONCE SAID, “The thing about smart people is that they seem like crazy people to dumb people.”**_
