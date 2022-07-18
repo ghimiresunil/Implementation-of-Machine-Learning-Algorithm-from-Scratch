@@ -38,6 +38,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * [Mathematical Implementation](#mathematical-implementation)
 * [Machine Learning Interview Questions with Answers](#machine-learning-interview-questions-with-answers)
 * [Essential Machine Learning Formulas](#essential-machine-learning-formulas)
+* [Pratice Guide for Data Science Learning](#pratice-guide-for-data-science-learning)
 
 # Useful Commands
 | Title | Repository |
@@ -85,3 +86,9 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 | Title | Repository |
 |------ | :----------: |
 |MOSTLY USED MACHINE LEARNING FORMULAS |[🔗](https://github.com/ghimiresunil/Machine-Learning-Formulas)|
+
+# Pratice Guide for Data Science Learning
+| Title | Repository |
+|------ | :----------: |
+| Research Guide for FYP | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/blob/main/Pratice%20Guide/research_guide_for_fyp.md)|
+|The Intermediate Guide to 180 Days Data Science Learning Plan|[🔗](https://graspcoding.com/the-intermediate-guide-to-180-days-data-science-learning-plan/)|
