@@ -15,7 +15,7 @@ Learn Machine Learning from basic to advance and develop Machine Learning Models
 Are you interested in Data Science and Machine Learning, but you don’t have any background, and you find the concepts confusing?
 <br>Are you interested in programming in Python, but you always afraid of coding?
 
-<b> I think this repo is for you! </b>
+<b> 😊I think this repo is for you!😊</b>
 
 Even you are familiar with machine learning, this repo can help you to review all the techniques and understand the concept behind each term.
 This repo is completely categorized, and I don’t start from the middle! I actually start the concept of every term, and then I try to implement it in Python step by step. The structure of the course is as follows:
