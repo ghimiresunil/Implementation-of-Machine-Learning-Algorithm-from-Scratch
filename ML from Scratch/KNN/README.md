@@ -192,3 +192,7 @@ Second Predictions ->  iris_setosa
 - KNN performs well in a limited number of input variables. So, it’s really challenging to estimate the performance of new data as the number of variables increases. Thus, it is called the curse of dimensionality. In the modern scientific era, increasing quantities of data are being produced and collected. How, for target_class in machine learning, too much data can be a bad thing. At a certain level, additional features or dimensions will decrease the precision of a model, because more data has to be generalized. Thus, this is recognized as the “Curse of dimensionality”.
 - KNN requires data that is normalized and also the KNN algorithm cannot deal with the missing value problem.
 - The biggest problem with the KNN from scratch is finding the correct neighbor number. 
+
+# 💥 ESSENCE OF THE KNN ALGORITHM IN ONE PICTURE!
+
+![132229901-06f86d02-98c2-473a-a6ce-758701bb2bc5](https://user-images.githubusercontent.com/40186859/185749018-64da0bdc-4f22-492a-a2a1-824c48309fbb.jpg)
