@@ -53,7 +53,7 @@ $ wget -P /tmp https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.
 For verifying the data integrity of the installer with cryptographic hash verification you can use the ```SHA-256``` checksum. You’ll use the sha256sum command along with the filename of the script:
 
 ```
-$sha256sum /tmp/Anaconda3-2022.05-Linux-x86_64.sh`
+$ sha256sum /tmp/Anaconda3-2022.05-Linux-x86_64.sh`
 ```
 
 You’ll receive output that looks similar to this:
