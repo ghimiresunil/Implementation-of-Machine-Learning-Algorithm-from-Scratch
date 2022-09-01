@@ -41,8 +41,40 @@ And now, the data are two dimensional, we can draw a Support Vector Classifier t
 
 ![upport Vector Classifier](https://user-images.githubusercontent.com/40186859/187906664-46375425-a7f2-4a4e-86cb-0a9c6fdba9cf.png)
 
-Note: This example is taken from [Statquest](https://www.youtube.com/watch?v=efR1C6CvhmE).
+**_Note_**: This example is taken from [Statquest](https://www.youtube.com/watch?v=efR1C6CvhmE).
 
 ## HOW TO TRANSFORM DATA ??
 
+SVM uses a kernel function to draw Support Vector Classifier in a higher dimension. Types of Kernel Functions are :
 
+- Linear
+- Polynomial
+- Radial Basis Function(rbf)
+
+In the above example, we have used a polynomial kernel function which has a parameter d (degree of polynomial). Kernel systematically increases the degree of the polynomial and the relationship between each pair of observation are used to find Support Vector Classifier. We also use cross-validation to find the good value of d.
+
+### Radial Basis Function Kernel
+
+Widely used kernel in SVM, we will be discussing radial basis Function Kernel in this tutorial for SVM from Scratch Python. Radial kernel finds a Support vector Classifier in infinite dimensions. Radial kernel behaves like the Weighted Nearest Neighbour model that means closest observation will have more influence on classifying new data.
+
+$K(X_1, X_2) = exponent(-\gamma||X_1 - X_2||^2)$
+
+Where, <br>
+$||X_1 - X_2||$ = Euclidean distance between $X_1$ & $X_2$
+
+## SOFT MARGIN – SVM
+n this method, SVM makes some incorrect classification and tries to balance the tradeoff between finding the line that maximizes the margin and minimizes misclassification. The level of misclassification tolerance is defined as a hyperparameter termed as a penalty- ‘C’.
+
+For large values of C, the optimization will choose a smaller-margin hyperplane if that hyperplane does a better job of getting all the training points classified correctly. Conversely, a very small value of C will cause the optimizer to look for a larger-margin separating hyperplane, even if that hyperplane misclassifies more points. For very tiny values of C, you should get misclassified examples, often even if your training data is linearly separable.
+
+Due to the presence of some outliers, the hyperplane can’t classify the data points region correctly. In this case, we use a soft margin & C hyperparameter.
+
+## SVM IMPLEMENTATION IN PYTHON
+In this tutorial, we will be using to implement our SVM algorithm is the Iris dataset. You can download it from this [link](https://www.kaggle.com/code/jchen2186/machine-learning-with-iris-dataset/data). Since the Iris dataset has three classes. Also, there are four features available for us to use. We will be using only two features, i.e Sepal length, and Sepal Width.
+
+![different kernel on Iris Dataset SVM](https://user-images.githubusercontent.com/40186859/187913255-110ac430-d9d6-4534-a014-22f8a5ecfa00.png)
+
+## BONUS – SVM FROM SCRATCH PYTHON!!
+Kernel Trick: Earlier, we had studied SVM classifying non-linear datasets by increasing the dimension of data. When we map data to a higher dimension, there are chances that we may overfit the model. Kernel trick actually refers to using efficient and less expensive ways to transform data into higher dimensions.
+
+Kernel function only calculates relationship between every pair of points as if they are in the higher dimensions; they don’t actually do the transformation. This trick , calculating the high dimensional relationships without actually transforming data to the higher dimension, is called the **Kernel Trick**.
