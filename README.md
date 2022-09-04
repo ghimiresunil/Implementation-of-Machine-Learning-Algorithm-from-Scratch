@@ -45,7 +45,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 |------ | :----------: |
 | USEFUL GIT COMMANDS FOR EVERYDAY USE | [🔗](https://github.com/ghimiresunil/Git-Cheat-Sheet)|
 | MOST USEFUL LINUX COMMANDS EVERYONE SHOULD KNOW | [🔗](https://github.com/ghimiresunil/Linux-Guide-For-All)|
-| Awesome ML Toolbox | [🔗](https://github.com/ghimiresunil/Awesome-ML-Toolbox)|
+| AWESOME ML TOOLBOX| [🔗](https://github.com/ghimiresunil/Awesome-ML-Toolbox)|
 
 # Installation
 | Title | Repository |
