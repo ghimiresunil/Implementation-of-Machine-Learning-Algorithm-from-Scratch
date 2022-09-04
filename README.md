@@ -40,11 +40,12 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 * [Essential Machine Learning Formulas](#essential-machine-learning-formulas)
 * [Pratice Guide for Data Science Learning](#pratice-guide-for-data-science-learning)
 
-# Useful Commands
+# Useful Resources
 | Title | Repository |
 |------ | :----------: |
 | USEFUL GIT COMMANDS FOR EVERYDAY USE | [🔗](https://github.com/ghimiresunil/Git-Cheat-Sheet)|
 | MOST USEFUL LINUX COMMANDS EVERYONE SHOULD KNOW | [🔗](https://github.com/ghimiresunil/Linux-Guide-For-All)|
+| Awesome ML Toolbox | [🔗](https://github.com/ghimiresunil/Awesome-ML-Toolbox)|
 
 # Installation
 | Title | Repository |
