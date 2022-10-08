@@ -76,7 +76,7 @@ This repo is completely categorized, and I don’t start from the middle! I actu
 |RANDOM FOREST FROM SCRATCH|[🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Random%20Forest)|
 | K NEAREST NEIGHBOUR | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/KNN)|
 | NAIVE BAYES | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Naive%20Bayes)|
-| K MEANS CLUSTERING | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/Naive%20Bayes)|
+| K MEANS CLUSTERING | [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch/tree/main/ML%20from%20Scratch/K%20Means%20Clustering)|
 
 # Mathematical Implementation
 | Title | Repository |
