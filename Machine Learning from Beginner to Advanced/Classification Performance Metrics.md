@@ -76,7 +76,7 @@ F1 score is the harmonic mean of the precision and recall, where an F1 score rea
 
 It leverages both the advantages of Precision and Recall. An Ideal model will have precision and recall as 1 hence F1 score will also be 1.
 
-F1 - Score = $ 2 * \frac{Precision * Recall}{Precision + Recall}$
+F1 - Score = $2 * \frac{Precision * Recall}{Precision + Recall}$
 
 **Advantages and Disadvantages**:
 *  It is as same as Precision and Recall.
